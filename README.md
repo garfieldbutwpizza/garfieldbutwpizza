@@ -1,16 +1,21 @@
-## Hi there 👋
+### Bem vindos 🏹
 
-<!--
-**garfieldbutwpizza/garfieldbutwpizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Mayte Campos de Oliveira
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Nivel intermediario em ingles e aspirante dos idiomas frances, alemao e chines
+- Uso esta plataforma para fins estudantis
+- Admiradora da arte
+- Paixao em musica, cinema, teatro e dança
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Find me on . . . 💌
+  
+  donutscarson@gmail.com
+
+  www.linkedin.com/in/mayte1122
+
+![](https://media.tenor.com/LULPN9Uo1q4AAAAM/enjoying-pizza-leonardo.gif)
+
+![](https://media.tenor.com/A9zO3vurtDQAAAAM/teenage-mutant-ninja-turtles-leonardo.gif)
+
+  Tenha um dia radiante.
